@@ -9,8 +9,8 @@ public class pattern0{
               for(int cst = 1 ; cst <= nst ; cst++)
               System.out.print("*\t");
               
-               nsp+=0;
-               nst+=0;
+            //    nsp+=0;
+            //    nst+=0;
                System.out.println();
         }
        
